@@ -1,4 +1,4 @@
-import './stayInTouch.css';
+import './StayInTouch.css';
 import Footer from '../Footer/Footer';
 
 const StayInTouch = () => (
