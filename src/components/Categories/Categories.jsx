@@ -1,4 +1,4 @@
-import './categories.css';
+import './Сategories.css';
 
 const Categories = () => (
   <section className="categories">
