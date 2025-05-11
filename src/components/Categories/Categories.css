@@ -1,0 +1,9 @@
+.categories {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 20px;
+  font-size: 18px;
+  color: #768088;
+  background-color: #FFFFFF;
+}
+  

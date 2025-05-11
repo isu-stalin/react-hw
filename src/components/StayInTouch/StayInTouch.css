@@ -1,0 +1,55 @@
+.stay-in-touch {
+  /* text-align: center; */
+  background-image: url(../../assets/bg-footer.jpg);
+  background-size: cover;
+  margin-top: 60px;
+}
+.stay-container{  
+  padding: 80px 0px;
+}
+.stay-in-touch h2{
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: normal;
+  border-bottom: 1px solid #DEDEDE;
+  padding: 15px 15px;
+  margin-top: 30px;
+  letter-spacing: 2px;
+}
+
+.stay-in-touch .stay-text{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stay-in-touch .stay-inp{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.stay-in-touch input {
+  padding: 15px 20px;
+  width: 375px;
+  border-radius: 4px 0 0 4px;
+  border: 0;
+  font-size: 12px;
+  outline: none;
+  color: #817F83;
+}
+  
+.stay-in-touch button {
+  border-radius: 0 4px 4px 0;
+  padding: 15px 20px;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  backdrop-filter: blur(10px); /* Размытие фона под кнопкой */
+  cursor: pointer;
+  font-size: 12px;
+  width: 125px;
+  color: #F8F8F8;
+  color: white;
+  border: none;
+}
+  

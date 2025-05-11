@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 40px;
+    color: white;
+    position: relative;
+    z-index: 10;
+    font-family: Oxygen, sans-serif;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .header-nav{
+    gap: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-nav a {
+    letter-spacing: 0.6;
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  

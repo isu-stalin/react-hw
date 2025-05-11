@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px; 
+    background-image: linear-gradient(to right, #232F3899);
+  }
+  .footer .logo {
+    font-size: 24px;
+    color: white;
+  }
+  .nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  
